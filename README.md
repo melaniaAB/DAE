@@ -53,6 +53,8 @@ keras, pandas, numpy,matplotlib
 Denoised output ![Denoised image](./denoised_9.png)
 
 Cossupted input ![Noisy image](./noisy_9.png)
+
+
  
 ## Status
 Project is completed.
