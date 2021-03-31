@@ -1,1 +1,1 @@
-# DAE
+# DAE (Denoising Autoencoder)
