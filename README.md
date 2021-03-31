@@ -50,8 +50,9 @@ keras, pandas, numpy,matplotlib
 ![model summary](./model_summary.png) 
 
 #### Let's look at a DAE cleared output and noisy (corrupted) input.
-![Denoised image](./denoised_9.png)
-![Noisy image](./noisy_9.png)
+Denoised output ![Denoised image](./denoised_9.png)
+
+Cossupted input ![Noisy image](./noisy_9.png)
  
 ## Status
 Project is completed.
