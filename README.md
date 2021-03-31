@@ -52,7 +52,7 @@ keras, pandas, numpy,matplotlib
 #### Let's look at a DAE cleared output and noisy (corrupted) input.
 Denoised output ![Denoised image](./denoised_9.png)
 
-Cossupted input ![Noisy image](./noisy_9.png)
+Corrupted input ![Noisy image](./noisy_9.png)
 
 
  
