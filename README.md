@@ -40,8 +40,19 @@ keras, pandas, numpy,matplotlib
       autoencoder = keras.Model(input_img, decoded)
       autoencoder.compile(optimizer='adam', loss='binary_crossentropy')
         
- ![model prediction](./model_summary.png) 
-  
+ #### Code Example - model.fit
+      autoencoder.fit(x_train_noisy, x_train,
+                epochs=100,
+                batch_size=128,
+                shuffle=True,
+                validation_data=(x_test_noisy, x_test))
+                
+![model summary](./model_summary.png) 
+
+#### Let's look at a DAE cleared output and noisy (corrupted) input.
+![Denoised image](./denoised_9.png)
+![Noisy image](./noisy_9.png)
+ 
 ## Status
 Project is completed.
 
