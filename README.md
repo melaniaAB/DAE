@@ -57,7 +57,9 @@ Corrupted input ![Noisy image](./noisy_9.png)
 
  
 ## Status
-Project is completed.
+Project is completed. The article is published [Medium-Omdena](https://omdena.com/blog/denoising-images/)
+
+
 
 ## Inspiration
 Application of AI based denoising for improved denoised images compared to traditional filtering.
